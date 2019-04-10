@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="login.xsl"?>
+
+
+<login>
+    <register>
+        <Name>Rajat Rastogi</Name>
+        <Email>astha9936@gmail.com</Email>
+        <mobile>8939357599</mobile>
+        <Gender>Male</Gender>
+        <Password>123</Password>
+        <ConfirmPassword>123</ConfirmPassword>
+    </register>
+    <register>
+        <Name>Sanjal Srivastava</Name>
+        <Email>sanajai@gmail.com</Email>
+        <mobile>8939357500</mobile>
+        <Gender>Female</Gender>
+        <Password>1234</Password>
+        <ConfirmPassword>1234</ConfirmPassword>
+    </register>
+    <register>
+        <Name>Astha Srivastava</Name>
+        <Email>astha9936@gmail.com</Email>
+        <mobile>8939357599</mobile>
+        <Gender>Female</Gender>
+        <Password>123</Password>
+        <ConfirmPassword>123</ConfirmPassword>
+    </register>
+    <register>
+        <Name>Astha Agarwal</Name>
+        <Email>astha9936@gmail.com</Email>
+        <mobile>8939357599</mobile>
+        <Gender>Female</Gender>
+        <Password>123</Password>
+        <ConfirmPassword>123</ConfirmPassword>
+    </register>
+    <register>
+        <Name>Rajat Mittal</Name>
+        <Email>astha9936@gmail.com</Email>
+        <mobile>8939357599</mobile>
+        <Gender>Male</Gender>
+        <Password>123</Password>
+        <ConfirmPassword>123</ConfirmPassword>
+    </register>
+    <register>
+        <Name>Rahul Rastogi</Name>
+        <Email>astha9936@gmail.com</Email>
+        <mobile>8939357599</mobile>
+        <Gender>Male</Gender>
+        <Password>123</Password>
+        <ConfirmPassword>123</ConfirmPassword>
+    </register>
+
+</login>
