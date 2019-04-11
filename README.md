@@ -2,7 +2,9 @@
 This project is like an e- bookstore website where books can be bought from the comfort of home through the Internet.   An online bookstore is a virtual store on the Internet where customers can browse the catalog and select books of interest. User can select many books and those books stored in cart. At checkout time, the items in the shopping cart will be presented as an order. At that time, more information will be needed to complete the transaction. Usually, the customer will be asked to fill the basic details or select a billing address, a shipping address, a shipping option, and payment information such as credit card number.
 Modules:
 1.	User:
+
 a.	Registration: User need to register first with their basic registration details and nee to create a valid login id and password.
+
 b.	Login: Using valid login credentials, user need to login into the system in order to access the system.
 c.	View Books: Once user is logged into the, he/she may view all the added books with their details.
 d.	Buy Books: User can surf various book of their choice and buy them.
