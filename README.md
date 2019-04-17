@@ -3,11 +3,11 @@ This project is like an e- bookstore website where books can be bought from the 
 Modules:
 1.	User:
 
-a.	Registration: User need to register first with their basic registration details and nee to create a valid login id and password.
+a.	Registration: User needs to register first with their basic registration details and need to create a valid login id and password.
 
-b.	Login: Using valid login credentials, user need to login into the system in order to access the system.
+b.	Login: Using valid login credentials, user needs to login into the system in order to access the system.
 
-c.	View Books: Once user is logged into the, he/she may view all the added books with their details.
+c.	View Books: Once the user is logged into the, he/she may view all the added books with their details.
 
 d.	Buy Books: User can surf various book of their choice and buy them.
 
